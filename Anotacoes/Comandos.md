@@ -7,7 +7,7 @@
  - GIT COMMIT - Envia o seu arquivo final do storage para o repositorio local 
  - GIT PUSH - Envia seus arquivos do repositorio local para o remoto
  - GIT STATUS - Verifica o estado que seus arquivos estão
- - GIT REMOTE ADD - Cria uma variavel para ser utilizada nos comandos, como git push
+ - GIT REMOTE ADD - Cria uma variavel para ser utilizada nos comandos
  - GIT CONFIG - Utilizado para configurar o Git 
  - GIT CONFIG --LIST - Mostra a configuração atual do Git
  
